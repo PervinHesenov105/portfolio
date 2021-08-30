@@ -35,8 +35,8 @@ section{
     padding: 0 80px;
     margin: auto;
 }
-.about, .services, .skills, .teams, .contact, footer{
-    font-family: 'Poppins', sans-serif;
+.about, .services, .skills, .contact, footer{
+    font-family: 'Ubuntu', sans-serif;
 }
 .about .about-content,
 .services .serv-content,
@@ -258,7 +258,7 @@ section .title::after{
 }
 
 /* services section styling */
-.services, .teams{
+.services{
     color:#fff;
     background: #111;
 }
@@ -483,7 +483,7 @@ section .title::after{
     outline: none;
     padding: 0 15px;
     font-size: 17px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
     transition: all 0.3s ease;
 }
 .contact .right form .field input:focus,
