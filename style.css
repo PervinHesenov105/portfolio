@@ -35,8 +35,11 @@ section{
     padding: 0 80px;
     margin: auto;
 }
-.about, .services, .skills, .contact, footer{
-    font-family: 'Ubuntu', sans-serif;
+.about,.contact{
+     font-family: 'Ubuntu', sans-serif;
+}
+ .services, .skills, footer{
+    font-family: 'Poppins', sans-serif;
 }
 .about .about-content,
 .services .serv-content,
